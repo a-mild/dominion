@@ -1,0 +1,761 @@
+
+Game #23496175, unrated.
+s starts with 7 Coppers.
+s starts with 3 Estates.
+L starts with 7 Coppers.
+L starts with 3 Estates.
+s shuffles their deck.
+s draws 3 Coppers and 2 Estates.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - schlafi
+s plays 3 Coppers. (+$3)
+s buys and gains a Silver.
+s draws 4 Coppers and an Estate.
+
+Turn 1 - Lord Rattington
+L plays 3 Coppers. (+$3)
+L buys and gains a Chapel.
+L draws 5 cards.
+
+Turn 2 - schlafi
+s plays 4 Coppers. (+$4)
+s buys and gains a Remodel.
+s shuffles their deck.
+s draws 2 Coppers and 3 Estates.
+
+Turn 2 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Smithy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - schlafi
+s draws 3 Coppers, a Silver and a Remodel.
+
+Turn 3 - Lord Rattington
+L plays a Smithy.
+L draws 3 cards.
+L plays 5 Coppers. (+$5)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 4 - schlafi
+s plays 3 Coppers and a Silver. (+$5)
+s buys and gains a Laboratory.
+s shuffles their deck.
+s draws 2 Coppers, a Silver, a Laboratory and a Remodel.
+
+Turn 4 - Lord Rattington
+L plays a Chapel.
+L trashes 2 Coppers and 2 Estates.
+L draws 5 cards.
+
+Turn 5 - schlafi
+s plays a Laboratory.
+s draws a Copper and an Estate.
+s gets +1 Action.
+s plays a Remodel.
+s trashes an Estate.
+s gains a Smithy.
+s plays 3 Coppers and a Silver. (+$5)
+s buys and gains a Festival.
+s draws 3 Coppers and 2 Estates.
+
+Turn 5 - Lord Rattington
+L plays 4 Coppers. (+$4)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 6 - schlafi
+s plays 3 Coppers. (+$3)
+s buys and gains a Harbinger.
+s shuffles their deck.
+s draws 3 Coppers, an Estate and a Laboratory.
+
+Turn 6 - Lord Rattington
+L plays a Smithy.
+L draws 3 cards.
+L plays 4 Coppers and a Silver. (+$6)
+L buys and gains a Gold.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - schlafi
+s plays a Laboratory.
+s draws a Copper and a Smithy.
+s gets +1 Action.
+s plays a Smithy.
+s draws a Festival, a Harbinger and a Remodel.
+s plays 4 Coppers. (+$4)
+s buys and gains a Smithy.
+s draws 3 Coppers, a Silver and an Estate.
+
+Turn 7 - Lord Rattington
+L plays 3 Coppers and a Silver. (+$5)
+L buys and gains a Laboratory.
+L draws 5 cards.
+
+Turn 8 - schlafi
+s plays 3 Coppers and a Silver. (+$5)
+s buys and gains a Festival.
+s shuffles their deck.
+s draws 2 Coppers, a Silver and 2 Estates.
+
+Turn 8 - Lord Rattington
+L plays a Smithy.
+L shuffles their deck.
+L draws 3 cards.
+L plays 3 Coppers, a Silver and a Gold. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 9 - schlafi
+s plays 2 Coppers and a Silver. (+$4)
+s buys and gains a Moneylender.
+s draws 3 Coppers, a Festival and a Smithy.
+
+Turn 9 - Lord Rattington
+L plays a Laboratory.
+L draws 2 cards.
+L gets +1 Action.
+L plays a Chapel.
+L trashes 3 Coppers and an Estate.
+L plays a Silver. (+$2)
+L draws 5 cards.
+
+Turn 10 - schlafi
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Smithy.
+s draws a Copper, a Festival and a Remodel.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Remodel.
+s trashes a Copper.
+s gains a Chapel.
+s plays 3 Coppers. (+$3)
+s buys and gains an Artisan.
+s shuffles their deck.
+s draws a Copper, an Artisan, a Harbinger, a Laboratory and a Smithy.
+
+Turn 10 - Lord Rattington
+L plays a Smithy.
+L shuffles their deck.
+L draws 3 cards.
+L plays 2 Coppers, 2 Silvers and a Gold. (+$9)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - schlafi
+s plays a Laboratory.
+s draws a Copper and an Estate.
+s gets +1 Action.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Silver.
+s plays an Artisan.
+s gains a Festival.
+s topdecks a Festival.
+s plays 2 Coppers and a Silver. (+$4)
+s buys and gains a Smithy.
+s draws an Estate, a Chapel, 2 Festivals and a Moneylender.
+
+Turn 11 - Lord Rattington
+L plays a Smithy.
+L draws 3 cards.
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Silver.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - schlafi
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Chapel.
+s trashes an Estate.
+s plays a Moneylender.
+s buys and gains a Silver.
+s draws 3 Coppers, a Festival and a Smithy.
+
+Turn 12 - Lord Rattington
+L plays a Smithy.
+L draws 3 cards.
+L plays 2 Coppers, 2 Silvers and a Gold. (+$9)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - schlafi
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Smithy.
+s shuffles their deck.
+s draws a Copper, an Artisan and a Remodel.
+s plays an Artisan.
+s gains a Laboratory.
+s topdecks a Laboratory.
+s plays 4 Coppers. (+$4)
+s buys and gains an Artisan.
+s draws a Copper, a Harbinger, 2 Laboratories and a Moneylender.
+
+Turn 13 - Lord Rattington
+L plays a Laboratory.
+L draws 2 cards.
+L gets +1 Action.
+L plays a Smithy.
+L draws 3 cards.
+L plays a Copper, 2 Silvers and a Gold. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - schlafi
+s plays a Laboratory.
+s draws an Estate and a Festival.
+s gets +1 Action.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Smithy.
+s looks at 4 Coppers, a Remodel, 2 Artisans, a Smithy and a Festival.
+s topdecks a Festival.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Smithy.
+s draws a Chapel and 2 Festivals.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Laboratory.
+s draws a Copper and a Silver.
+s gets +1 Action.
+s plays a Moneylender.
+s trashes a Copper.
+s gets +$3.
+s plays a Chapel.
+s trashes a Copper and an Estate.
+s plays a Silver. (+$2)
+s buys and gains a Gold.
+s buys and gains a Laboratory.
+s shuffles their deck.
+s draws a Silver, a Festival, a Laboratory and 2 Smithies.
+
+Turn 14 - Lord Rattington
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 15 - schlafi
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Laboratory.
+s draws a Copper and a Gold.
+s gets +1 Action.
+s plays a Smithy.
+s draws a Silver, a Festival and a Laboratory.
+s plays a Laboratory.
+s draws a Copper and a Chapel.
+s gets +1 Action.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Smithy.
+s draws a Copper, a Harbinger and a Laboratory.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Festival.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Laboratory.
+s draws a Moneylender and a Remodel.
+s gets +1 Action.
+s plays a Moneylender.
+s trashes a Copper.
+s gets +$3.
+s plays a Remodel.
+s trashes a Chapel.
+s gains a Smithy.
+s plays 2 Coppers, 2 Silvers and a Gold. (+$9)
+s buys and gains a Laboratory.
+s buys and gains a Festival.
+s buys and gains a Province.
+s shuffles their deck.
+s draws 2 Coppers, 2 Artisans and a Smithy.
+
+Turn 15 - Lord Rattington
+L plays a Laboratory.
+L draws 2 cards.
+L gets +1 Action.
+L plays a Smithy.
+L shuffles their deck.
+L draws 3 cards.
+L plays a Copper, 2 Silvers and a Gold. (+$8)
+L buys and gains a Province.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 16 - schlafi
+s plays an Artisan.
+s gains a Festival.
+s topdecks a Festival.
+s plays 2 Coppers. (+$2)
+s buys and gains an Estate.
+s draws 2 Festivals, 2 Laboratories and a Smithy.
+
+Turn 16 - Lord Rattington
+L plays a Laboratory.
+L draws 2 cards.
+L gets +1 Action.
+L plays a Copper and 2 Silvers. (+$5)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 17 - schlafi
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Smithy.
+s draws 2 Festivals and a Remodel.
+s plays a Laboratory.
+s draws a Silver and a Province.
+s gets +1 Action.
+s plays a Laboratory.
+s draws a Gold and a Festival.
+s gets +1 Action.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Remodel.
+s trashes a Silver.
+s gains a Laboratory.
+s plays a Gold. (+$3)
+s buys and gains 2 Laboratories.
+s buys and gains a Silver.
+s draws a Copper, a Silver, a Laboratory and 2 Smithies.
+
+Turn 17 - Lord Rattington
+L plays a Copper, a Silver and a Gold. (+$6)
+L buys and gains a Duchy.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 18 - schlafi
+s plays a Laboratory.
+s draws a Harbinger and a Moneylender.
+s gets +1 Action.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Laboratory.
+s looks at 5 Laboratories, 2 Coppers, a Remodel, a Province, an Estate, a Silver, 2 Artisans, 2 Smithies, a Gold and 5 Festivals.
+s topdecks a Festival.
+s plays a Laboratory.
+s shuffles their deck.
+s draws a Festival and a Laboratory.
+s gets +1 Action.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Laboratory.
+s draws an Artisan and a Smithy.
+s gets +1 Action.
+s plays an Artisan.
+s gains a Festival.
+s topdecks a Smithy.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Smithy.
+s draws 2 Festivals and a Smithy.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Smithy.
+s draws a Gold, a Festival and a Remodel.
+s plays a Smithy.
+s draws a Silver, an Estate and a Laboratory.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Laboratory.
+s draws 2 Laboratories.
+s gets +1 Action.
+s plays a Laboratory.
+s draws 2 Coppers.
+s gets +1 Action.
+s plays a Laboratory.
+s draws a Laboratory and a Smithy.
+s gets +1 Action.
+s plays a Laboratory.
+s draws an Artisan and a Festival.
+s gets +1 Action.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays an Artisan.
+s gains a Festival.
+s topdecks an Estate.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Remodel.
+s trashes a Copper.
+s gains an Estate.
+s plays a Smithy.
+s shuffles their deck.
+s draws 2 Estates and a Province.
+s plays a Moneylender.
+s trashes a Copper.
+s gets +$3.
+s plays a Copper, 2 Silvers and a Gold. (+$8)
+s buys and gains a Gardens.
+s buys and gains 2 Laboratories.
+s buys and gains a Festival.
+s buys and gains a Gold.
+s shuffles their deck.
+s draws a Silver, a Gold, an Estate and 2 Laboratories.
+
+Turn 18 - Lord Rattington
+L plays a Smithy.
+L draws 3 cards.
+L plays a Copper. (+$1)
+L draws 5 cards.
+
+Turn 19 - schlafi
+s plays a Laboratory.
+s draws an Artisan and a Laboratory.
+s gets +1 Action.
+s plays a Laboratory.
+s draws an Estate and a Festival.
+s gets +1 Action.
+s plays a Laboratory.
+s draws a Festival and a Smithy.
+s gets +1 Action.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Smithy.
+s draws a Silver, a Festival and a Smithy.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Smithy.
+s draws a Gardens, a Laboratory and a Remodel.
+s plays a Laboratory.
+s draws a Province and a Festival.
+s gets +1 Action.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays an Artisan.
+s gains a Smithy.
+s topdecks a Gardens.
+s plays a Smithy.
+s draws 2 Festivals and a Gardens.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Remodel.
+s trashes an Estate.
+s gains a Gardens.
+s plays 2 Silvers and a Gold. (+$7)
+s buys and gains 3 Harbingers.
+s buys and gains a Smithy.
+s buys and gains a Gold.
+s draws an Artisan, a Festival, 2 Laboratories and a Moneylender.
+
+Turn 19 - Lord Rattington
+L plays 2 Silvers. (+$4)
+L buys and gains a Gardens.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 20 - schlafi
+s plays a Laboratory.
+s draws a Harbinger and a Laboratory.
+s gets +1 Action.
+s plays a Laboratory.
+s draws a Gold and a Smithy.
+s gets +1 Action.
+s plays a Laboratory.
+s draws a Copper and a Smithy.
+s gets +1 Action.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Smithy.
+s draws a Festival and 2 Laboratories.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Laboratory.
+s shuffles their deck.
+s draws a Province and a Festival.
+s gets +1 Action.
+s plays a Laboratory.
+s draws a Festival and a Smithy.
+s gets +1 Action.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Smithy.
+s draws a Gold, an Artisan and a Smithy.
+s plays a Smithy.
+s draws a Silver, a Laboratory and a Smithy.
+s plays a Laboratory.
+s draws a Gardens and a Harbinger.
+s gets +1 Action.
+s plays an Artisan.
+s gains a Festival.
+s topdecks a Gardens.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Gardens.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Harbinger.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Laboratory.
+s plays a Laboratory.
+s draws a Festival and a Gardens.
+s gets +1 Action.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Smithy.
+s draws a Gold, a Festival and a Laboratory.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Laboratory.
+s draws a Silver and an Estate.
+s gets +1 Action.
+s plays an Artisan.
+s gains a Gardens.
+s topdecks a Province.
+s plays a Smithy.
+s draws a Province, a Laboratory and a Remodel.
+s plays a Laboratory.
+s draws a Festival and a Harbinger.
+s gets +1 Action.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Smithy.
+s plays a Remodel.
+s trashes an Estate.
+s gains a Gardens.
+s plays a Moneylender.
+s trashes a Copper.
+s gets +$3.
+s plays 2 Silvers and 3 Golds. (+$13)
+s buys and gains 6 Harbingers.
+s buys and gains a Province.
+s buys and gains a Duchy.
+s shuffles their deck.
+s draws a Gold, a Festival, a Gardens, a Harbinger and a Smithy.
+
+Turn 20 - Lord Rattington
+L plays a Copper, a Silver and a Gold. (+$6)
+L buys and gains a Duchy.
+L draws 5 cards.
+
+Turn 21 - schlafi
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Festival.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Smithy.
+s draws a Festival, a Harbinger and a Laboratory.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Harbinger.
+s gets +1 Action.
+s draws an Artisan.
+s plays a Laboratory.
+s draws a Harbinger and a Smithy.
+s gets +1 Action.
+s plays a Smithy.
+s draws a Gold, a Festival and a Laboratory.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Laboratory.
+s draws a Gardens and a Laboratory.
+s gets +1 Action.
+s plays a Laboratory.
+s draws a Province and a Harbinger.
+s gets +1 Action.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Harbinger.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Smithy.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Laboratory.
+s plays a Smithy.
+s draws 2 Silvers and a Festival.
+s plays a Laboratory.
+s draws a Festival and a Laboratory.
+s gets +1 Action.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Laboratory.
+s draws an Artisan and a Laboratory.
+s gets +1 Action.
+s plays a Laboratory.
+s draws a Province and a Laboratory.
+s gets +1 Action.
+s plays a Laboratory.
+s draws a Gardens and a Laboratory.
+s gets +1 Action.
+s plays a Laboratory.
+s draws a Duchy and a Smithy.
+s gets +1 Action.
+s plays a Smithy.
+s draws a Gold, a Harbinger and a Smithy.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Harbinger.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Harbinger.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Festival.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Smithy.
+s draws a Festival, a Harbinger and a Remodel.
+s plays a Festival.
+s gets +2 Actions.
+s gets +1 Buy.
+s gets +$2.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Moneylender.
+s plays a Remodel.
+s trashes a Moneylender.
+s gains a Duchy.
+s plays an Artisan.
+s gains a Smithy.
+s topdecks a Duchy.
+s plays a Smithy.
+s draws a Duchy, a Harbinger and a Smithy.
+s plays a Harbinger.
+s gets +1 Action.
+s draws a Gardens.
+s looks at a Duchy.
+s plays an Artisan.
+s gains a Duchy.
+s topdecks a Smithy.
+s plays 2 Silvers and 3 Golds. (+$13)
+s buys and gains 2 Gardens.
+s buys and gains 3 Coppers.
+s buys and gains a Gardens.
+s buys and gains a Copper.
+s buys and gains a Province.
+s buys and gains a Duchy.
+s shuffles their deck.
+s draws a Province, 2 Festivals, a Laboratory and a Smithy

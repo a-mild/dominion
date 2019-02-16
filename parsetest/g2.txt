@@ -1,0 +1,1104 @@
+
+Game #23502507, rated.
+schlafi: 53.75
+
+LightningCloud: 43.96
+
+
+s starts with 7 Coppers.
+s starts with a Hovel, a Necropolis and an Overgrown Estate.
+L starts with 7 Coppers.
+L starts with a Hovel, a Necropolis and an Overgrown Estate.
+s shuffles their deck.
+s draws 4 Coppers and a Necropolis.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 1 - schlafi
+s plays 4 Coppers. (+$4)
+s buys and gains an Exorcist.
+s draws 3 Coppers, a Hovel and an Overgrown Estate.
+
+Turn 1 - LightningCloud
+L buys an Alms.
+L gains an Exorcist.
+L draws 5 cards.
+
+Turn 2 - schlafi
+s buys an Alms.
+s gains a Peasant.
+s shuffles their deck.
+s draws 3 Coppers, a Hovel and an Overgrown Estate.
+
+Turn 2 - LightningCloud
+L plays 3 Coppers. (+$3)
+L buys and gains a Peasant.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 3 - schlafi
+s plays 3 Coppers. (+$3)
+s buys and gains a Silver.
+s draws 3 Coppers, a Necropolis and a Peasant.
+
+Turn 3 - LightningCloud
+L plays a Peasant.
+L gets +1 Buy.
+L gets +$1.
+L plays 3 Coppers. (+$3)
+L buys and gains a Ratcatcher.
+L buys and gains a Peasant.
+L returns a Peasant.
+L receives a Soldier.
+L draws 5 cards.
+
+Turn 4 - schlafi
+s plays a Peasant.
+s gets +1 Buy.
+s gets +$1.
+s plays 3 Coppers. (+$3)
+s buys and gains a Ratcatcher.
+s buys and gains a Peasant.
+s returns a Peasant.
+s receives a Soldier.
+s shuffles their deck.
+s draws 2 Coppers, a Silver, a Soldier and an Exorcist.
+
+Turn 4 - LightningCloud
+L buys an Alms.
+L gains a Ratcatcher.
+L plays an Exorcist.
+L trashes a Hovel.
+L gets 1 VP from Tomb.
+L gains a Will-o'-Wisp.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 5 - schlafi
+s plays a Soldier.
+s gets +$2.
+L discards an Overgrown Estate.
+s plays 2 Coppers. (+$2)
+s buys and gains a Ranger.
+s plays an Exorcist.
+s trashes a Silver.
+s gets 1 VP from Tomb.
+s gains an Imp.
+s returns a Soldier.
+s receives a Fugitive.
+s draws 3 Coppers, a Necropolis and an Overgrown Estate.
+
+Turn 5 - LightningCloud
+L plays a Ratcatcher.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Ratcatcher.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Peasant.
+L gets +1 Buy.
+L gets +$1.
+L plays 3 Coppers. (+$3)
+L buys and gains 2 Ratcatchers.
+L returns a Peasant.
+L receives a Soldier.
+L draws 5 cards.
+
+Turn 6 - schlafi
+s plays 3 Coppers. (+$3)
+s buys and gains a Silver.
+s draws 2 Coppers, a Hovel, a Peasant and a Ratcatcher.
+
+Turn 6 - LightningCloud
+L starts their turn.
+L calls a Ratcatcher.
+L trashes a Copper.
+L gets 1 VP from Tomb.
+L calls a Ratcatcher.
+L trashes a Copper.
+L gets 1 VP from Tomb.
+L plays a Will-o'-Wisp.
+L draws a card.
+L gets +1 Action.
+L reveals a Necropolis.
+L puts a Necropolis into their hand.
+L buys an Alms.
+L gains a Ranger.
+L plays an Exorcist.
+L trashes a Copper.
+L gets 1 VP from Tomb.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 7 - schlafi
+s plays a Ratcatcher.
+s shuffles their deck.
+s draws an Overgrown Estate.
+s gets +1 Action.
+s puts a Ratcatcher on their Tavern mat.
+s plays a Peasant.
+s gets +1 Buy.
+s gets +$1.
+s buys an Alms.
+s gains a Ranger.
+s returns a Peasant.
+s receives a Soldier.
+s draws 2 Coppers, a Silver, an Exorcist and an Imp.
+
+Turn 7 - LightningCloud
+L plays a Will-o'-Wisp.
+L draws a card.
+L gets +1 Action.
+L reveals a Necropolis.
+L puts a Necropolis into their hand.
+L plays a Ratcatcher.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Ratcatcher.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Soldier.
+L gets +$2.
+s discards a Copper.
+L buys and gains a Guardian.
+L plays a Guardian.
+L returns a Soldier.
+L receives a Fugitive.
+L draws 5 cards.
+
+Turn 8 - schlafi
+s starts their turn.
+s calls a Ratcatcher.
+s trashes a Copper.
+s gets 1 VP from Tomb.
+s plays an Imp.
+s draws a Copper and a Necropolis.
+s plays a Necropolis.
+s gets +2 Actions.
+s plays a Silver and a Copper. (+$3)
+s buys and gains a Silver.
+s shuffles their deck.
+s draws 2 Coppers, a Necropolis, a Fugitive and a Ranger.
+
+Turn 8 - LightningCloud
+L starts their turn.
+L gets +$1. (Guardian)
+L calls a Ratcatcher.
+L trashes a Copper.
+L gets 1 VP from Tomb.
+L calls a Ratcatcher.
+L trashes a Copper.
+L gets 1 VP from Tomb.
+L plays a Ratcatcher.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Ratcatcher.
+L shuffles their deck.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L buys an Alms.
+L gains a Peasant.
+L plays an Exorcist.
+L trashes an Overgrown Estate.
+L gets 1 VP from Tomb.
+L draws a card.
+L gains a Will-o'-Wisp.
+L draws 5 cards.
+
+Turn 9 - schlafi
+s plays a Necropolis.
+s gets +2 Actions.
+s plays a Fugitive.
+s draws 2 Silvers.
+s gets +1 Action.
+s discards a Copper.
+s plays a Ranger.
+s gets +1 Buy.
+s flips Journey token face down.
+s plays 2 Silvers and a Copper. (+$5)
+s buys and gains a Counterfeit.
+s returns a Fugitive.
+s receives a Disciple.
+s draws a Copper, an Overgrown Estate, a Ratcatcher, a Soldier and an Imp.
+
+Turn 9 - LightningCloud
+L starts their turn.
+L calls a Ratcatcher.
+L trashes a Copper.
+L gets 1 VP from Tomb.
+L plays a Necropolis.
+L gets +2 Actions.
+L plays a Will-o'-Wisp.
+L shuffles their deck.
+L draws a card.
+L gets +1 Action.
+L reveals an Exorcist.
+L topdecks an Exorcist.
+L plays a Ratcatcher.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Ranger.
+L gets +1 Buy.
+L flips Journey token face down.
+L plays a Soldier.
+L gets +$2.
+s discards a Copper.
+L buys and gains a Peasant.
+L plays an Exorcist.
+L returns a Soldier.
+L receives a Fugitive.
+L draws 5 cards.
+
+Turn 10 - schlafi
+s plays an Imp.
+s draws a Copper and a Ranger.
+s plays a Ratcatcher.
+s draws a Copper.
+s gets +1 Action.
+s puts a Ratcatcher on their Tavern mat.
+s plays a Ranger.
+s gets +1 Buy.
+s flips Journey token face up.
+s shuffles their deck.
+s draws 2 Coppers, a Silver, a Hovel and an Exorcist.
+s plays a Silver and 4 Coppers. (+$6)
+s buys and gains a Ranger.
+s buys and gains a Guardian.
+s plays a Guardian.
+s plays an Exorcist.
+s trashes a Hovel.
+s gets 1 VP from Tomb.
+s gains a Will-o'-Wisp.
+s draws a Copper, a Silver, a Counterfeit, a Disciple and a Ranger.
+
+Turn 10 - LightningCloud
+L starts their turn.
+L calls a Ratcatcher.
+L trashes a Copper.
+L gets 1 VP from Tomb.
+L plays a Ratcatcher.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Will-o'-Wisp.
+L shuffles their deck.
+L draws a card.
+L gets +1 Action.
+L reveals a Fugitive.
+L topdecks a Fugitive.
+L plays a Fugitive.
+L draws 2 cards.
+L gets +1 Action.
+L discards a Ranger.
+L plays a Necropolis.
+L gets +2 Actions.
+L plays a Fugitive.
+L draws 2 cards.
+L gets +1 Action.
+L discards an Exorcist.
+L plays a Ratcatcher.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Peasant.
+L gets +1 Buy.
+L gets +$1.
+L plays a Peasant.
+L gets +1 Buy.
+L gets +$1.
+L buys an Alms.
+L gains a Silver.
+L buys and gains a Ratcatcher.
+L buys and gains a Copper.
+L plays a Guardian.
+L returns a Fugitive.
+L receives a Disciple.
+L returns a Fugitive.
+L receives a Disciple.
+L returns a Peasant.
+L receives a Soldier.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 11 - schlafi
+s starts their turn.
+s gets +$1. (Guardian)
+s calls a Ratcatcher.
+s trashes a Copper.
+s gets 1 VP from Tomb.
+s plays a Disciple.
+s plays a Ranger.
+s gets +1 Buy.
+s flips Journey token face down.
+s plays a Ranger again.
+s gets +1 Buy.
+s flips Journey token face up.
+s shuffles their deck.
+s draws 3 Coppers, a Necropolis and a Will-o'-Wisp.
+s gains a Ranger.
+s plays a Counterfeit. (+$1)
+s gets +1 Buy.
+s plays a Copper. (+$1)
+s plays a Copper again. (+$1)
+s trashes a Copper.
+s gets 1 VP from Tomb.
+s plays a Silver and 2 Coppers. (+$4)
+s buys and gains 2 Rangers.
+s returns a Disciple.
+s receives a Teacher.
+s draws a Copper, a Silver, an Overgrown Estate, an Exorcist and an Imp.
+
+Turn 11 - LightningCloud
+L starts their turn.
+L gets +$1. (Guardian)
+L plays a Ratcatcher.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Will-o'-Wisp.
+L draws a card.
+L gets +1 Action.
+L reveals an Exorcist.
+L topdecks an Exorcist.
+L plays a Will-o'-Wisp.
+L draws a card.
+L gets +1 Action.
+L reveals a Ratcatcher.
+L puts a Ratcatcher into their hand.
+L plays a Necropolis.
+L gets +2 Actions.
+L plays a Disciple.
+L plays a Ratcatcher.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Ratcatcher again.
+L draws a card.
+L gets +1 Action.
+L gains a Ratcatcher.
+L plays a Disciple.
+L plays a Ranger.
+L gets +1 Buy.
+L flips Journey token face up.
+L shuffles their deck.
+L draws 3 cards.
+L plays a Ranger again.
+L gets +1 Buy.
+L flips Journey token face down.
+L gains a Ranger.
+L plays a Ratcatcher.
+L shuffles their deck.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Soldier.
+L gets +$2.
+s discards a Copper.
+L plays a Peasant.
+L gets +1 Buy.
+L gets +$1.
+L buys and gains a Ranger.
+L buys an Alms.
+L gains a Silver.
+L buys and gains a Copper.
+L plays an Exorcist.
+L trashes a Silver.
+L gets 1 VP from Tomb.
+L gains an Imp.
+L returns a Disciple.
+L receives a Teacher.
+L returns a Soldier.
+L receives a Fugitive.
+L returns a Peasant.
+L receives a Soldier.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 12 - schlafi
+s plays an Imp.
+s draws a Copper and a Ranger.
+s plays a Ranger.
+s gets +1 Buy.
+s flips Journey token face down.
+s buys an Alms.
+s gains a Ranger.
+s plays an Exorcist.
+s trashes an Overgrown Estate.
+s gets 1 VP from Tomb.
+s draws a Ranger.
+s gains a Will-o'-Wisp.
+s shuffles their deck.
+s draws a Copper, a Silver, a Necropolis, a Ranger and a Soldier.
+
+Turn 12 - LightningCloud
+L starts their turn.
+L plays a Fugitive.
+L draws 2 cards.
+L gets +1 Action.
+L discards a Silver.
+L plays a Disciple.
+L plays a Ranger.
+L gets +1 Buy.
+L flips Journey token face up.
+L draws 5 cards.
+L plays a Ranger again.
+L gets +1 Buy.
+L flips Journey token face down.
+L buys an Alms.
+L gains a Silver.
+L plays a Guardian.
+L plays an Exorcist.
+L trashes a Soldier.
+L gets 1 VP from Tomb.
+L gains an Imp.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 13 - schlafi
+s plays a Necropolis.
+s gets +2 Actions.
+s plays a Ranger.
+s gets +1 Buy.
+s flips Journey token face up.
+s draws 2 Rangers, a Guardian, an Imp and a Will-o'-Wisp.
+s plays a Will-o'-Wisp.
+s draws a Will-o'-Wisp.
+s gets +1 Action.
+s reveals a Teacher.
+s topdecks a Teacher.
+s plays a Will-o'-Wisp.
+s draws a Teacher.
+s gets +1 Action.
+s reveals a Ranger.
+s topdecks a Ranger.
+s plays an Imp.
+s draws a Copper and a Ranger.
+s plays a Teacher.
+s puts a Teacher on their Tavern mat.
+s plays a Silver and 2 Coppers. (+$4)
+s buys and gains a Silver.
+s plays a Guardian.
+s draws a Silver, 2 Rangers, a Ratcatcher and an Exorcist.
+
+Turn 13 - LightningCloud
+L starts their turn.
+L gets +$1. (Guardian)
+L calls a Ratcatcher.
+L trashes a Copper.
+L gets 1 VP from Tomb.
+L calls a Ratcatcher.
+L trashes a Copper.
+L gets 1 VP from Tomb.
+L plays an Imp.
+L draws 2 cards.
+L plays a Fugitive.
+L draws 2 cards.
+L gets +1 Action.
+L discards a Silver.
+L plays an Imp.
+L draws 2 cards.
+L plays a Necropolis.
+L gets +2 Actions.
+L plays a Ranger.
+L gets +1 Buy.
+L flips Journey token face up.
+L draws 5 cards.
+L plays a Disciple.
+L plays a Will-o'-Wisp.
+L shuffles their deck.
+L draws a card.
+L gets +1 Action.
+L plays a Will-o'-Wisp again.
+L gets +1 Action.
+L plays a Ranger.
+L gets +1 Buy.
+L flips Journey token face down.
+L plays a Teacher.
+L puts a Teacher on their Tavern mat.
+L plays 2 Silvers. (+$4)
+L buys and gains an Idol.
+L buys and gains 2 Coppers.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 14 - schlafi
+s starts their turn.
+s gets +$1. (Guardian)
+s calls a Teacher.
+s moves +Action token to the Ranger pile.
+s plays a Ratcatcher.
+s draws a Counterfeit.
+s gets +1 Action.
+s puts a Ratcatcher on their Tavern mat.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face down.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face up.
+s shuffles their deck.
+s draws 2 Coppers, a Necropolis, a Ranger and a Will-o'-Wisp.
+s plays a Will-o'-Wisp.
+s draws an Imp.
+s gets +1 Action.
+s reveals a Ranger.
+s topdecks a Ranger.
+s plays an Imp.
+s draws 2 Rangers.
+s plays a Necropolis.
+s gets +2 Actions.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face down.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face up.
+s draws 2 Coppers, a Silver, a Soldier and a Will-o'-Wisp.
+s plays a Will-o'-Wisp.
+s draws a Ranger.
+s gets +1 Action.
+s reveals a Ranger.
+s topdecks a Ranger.
+s plays a Soldier.
+s gets +$2.
+L discards a Necropolis.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face down.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face up.
+s draws a Silver and a Ranger.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face down.
+s plays a Counterfeit. (+$1)
+s gets +1 Buy.
+s plays a Copper. (+$1)
+s plays a Copper again. (+$1)
+s trashes a Copper.
+s gets 1 VP from Tomb.
+s plays 3 Silvers and 2 Coppers. (+$8)
+s buys and gains 2 Golds.
+s plays an Exorcist.
+s trashes a Copper.
+s gets 1 VP from Tomb.
+s shuffles their deck.
+s draws a Silver, a Counterfeit, 2 Rangers and a Guardian.
+
+Turn 14 - LightningCloud
+L starts their turn.
+L calls a Teacher.
+L moves +Action token to the Ranger pile.
+L calls a Ratcatcher.
+L trashes a Copper.
+L gets 1 VP from Tomb.
+L calls a Ratcatcher.
+L trashes a Copper.
+L gets 1 VP from Tomb.
+L plays a Ranger.
+L gets +1 Action (from Teacher).
+L gets +1 Buy.
+L flips Journey token face up.
+L draws 5 cards.
+L plays a Will-o'-Wisp.
+L draws a card.
+L gets +1 Action.
+L reveals a Silver.
+L topdecks a Silver.
+L plays a Will-o'-Wisp.
+L draws a card.
+L gets +1 Action.
+L reveals a Ratcatcher.
+L puts a Ratcatcher into their hand.
+L plays a Disciple.
+L plays a Ranger.
+L gets +1 Action (from Teacher).
+L gets +1 Buy.
+L flips Journey token face down.
+L plays a Ranger again.
+L gets +1 Action (from Teacher).
+L gets +1 Buy.
+L flips Journey token face up.
+L draws 5 cards.
+L plays an Imp.
+L shuffles their deck.
+L draws 2 cards.
+L plays a Fugitive.
+L gets +1 Action.
+L discards a Necropolis.
+L plays an Imp.
+L shuffles their deck.
+L draws a card.
+L plays a Ratcatcher.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Ratcatcher.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Ranger.
+L gets +1 Action (from Teacher).
+L gets +1 Buy.
+L flips Journey token face down.
+L plays 2 Silvers. (+$4)
+L plays an Idol. (+$2)
+L takes The Sun's Gift.
+L receives The Sun's Gift.
+The Sun's Gift has nothing to discard.
+L discards The Sun's Gift.
+L buys and gains an Idol.
+L buys and gains 2 Coppers.
+L plays an Exorcist.
+L trashes a Necropolis.
+L gets 1 VP from Tomb.
+L gains a Will-o'-Wisp.
+L plays a Guardian.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 15 - schlafi
+s starts their turn.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face up.
+s draws a Copper, a Silver, a Necropolis and 2 Rangers.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face down.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face up.
+s draws a Silver, a Gold, an Imp and 2 Will-o'-Wisps.
+s plays an Imp.
+s draws a Copper and a Teacher.
+s plays a Will-o'-Wisp.
+s draws a Ranger.
+s gets +1 Action.
+s reveals an Exorcist.
+s topdecks an Exorcist.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face down.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face up.
+s draws a Gold, 2 Rangers, a Soldier and an Exorcist.
+s plays a Necropolis.
+s gets +2 Actions.
+s plays a Teacher.
+s puts a Teacher on their Tavern mat.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face down.
+s plays a Soldier.
+s gets +$2.
+s plays a Counterfeit. (+$1)
+s gets +1 Buy.
+s plays a Copper. (+$1)
+s plays a Copper again. (+$1)
+s trashes a Copper.
+s gets 1 VP from Tomb.
+s plays 3 Silvers and 2 Golds. (+$12)
+s buys and gains 2 Golds.
+s buys and gains a Counterfeit.
+s buys and gains a Copper.
+s plays an Exorcist.
+s trashes a Copper.
+s gets 1 VP from Tomb.
+s plays a Guardian.
+s shuffles their deck.
+s draws a Silver, a Gold, a Counterfeit, a Ranger and a Soldier.
+
+Turn 15 - LightningCloud
+L starts their turn.
+L gets +$1. (Guardian)
+L calls a Ratcatcher.
+L trashes a Copper.
+L gets 1 VP from Tomb.
+L calls a Ratcatcher.
+L trashes a Copper.
+L gets 1 VP from Tomb.
+L plays a Will-o'-Wisp.
+L draws a card.
+L gets +1 Action.
+L reveals a Ranger.
+L topdecks a Ranger.
+L plays a Fugitive.
+L draws 2 cards.
+L gets +1 Action.
+L discards a Will-o'-Wisp.
+L plays a Ranger.
+L gets +1 Action (from Teacher).
+L gets +1 Buy.
+L flips Journey token face up.
+L draws 5 cards.
+L plays a Ranger.
+L gets +1 Action (from Teacher).
+L gets +1 Buy.
+L flips Journey token face down.
+L plays a Ranger.
+L gets +1 Action (from Teacher).
+L gets +1 Buy.
+L flips Journey token face up.
+L draws 5 cards.
+L plays an Imp.
+L draws 2 cards.
+L plays a Disciple.
+L plays a Ratcatcher.
+L shuffles their deck.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Ratcatcher again.
+L gets +1 Action.
+L gains a Ratcatcher.
+L plays an Imp.
+L shuffles their deck.
+L draws a card.
+L plays a Teacher.
+L puts a Teacher on their Tavern mat.
+L plays a Will-o'-Wisp.
+L gets +1 Action.
+L plays a Will-o'-Wisp.
+L gets +1 Action.
+L plays a Ratcatcher.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Ratcatcher.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays 2 Silvers. (+$4)
+L plays an Idol. (+$2)
+L takes The Mountain's Gift.
+L receives The Mountain's Gift.
+L gains a Silver.
+L discards The Mountain's Gift.
+L plays an Idol. (+$2)
+L buys and gains an Idol.
+L buys and gains 2 Ratcatchers.
+L buys and gains a Copper.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 16 - schlafi
+s starts their turn.
+s gets +$1. (Guardian)
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face up.
+s draws a Copper, a Gold, 2 Rangers and an Exorcist.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face down.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face up.
+s draws 2 Silvers, a Counterfeit, a Ranger and a Will-o'-Wisp.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face down.
+s plays a Will-o'-Wisp.
+s draws a Necropolis.
+s gets +1 Action.
+s reveals a Ranger.
+s topdecks a Ranger.
+s plays a Soldier.
+s gets +$2.
+L discards an Exorcist.
+s plays a Counterfeit. (+$1)
+s gets +1 Buy.
+s plays a Copper. (+$1)
+s plays a Copper again. (+$1)
+s trashes a Copper.
+s gets 1 VP from Tomb.
+s plays a Counterfeit. (+$1)
+s gets +1 Buy.
+s plays a Silver. (+$2)
+s plays a Silver again. (+$2)
+s trashes a Silver.
+s gets 1 VP from Tomb.
+s plays 2 Silvers and 2 Golds. (+$10)
+s buys and gains 2 Provinces.
+s buys and gains a Counterfeit.
+s buys and gains a Copper.
+s draws 2 Golds, 2 Rangers and an Imp.
+
+Turn 16 - LightningCloud
+L starts their turn.
+L calls a Teacher.
+L moves +Coin token to the Peasant pile.
+L plays a Disciple.
+L plays an Imp.
+L draws 2 cards.
+L plays a Ranger.
+L gets +1 Action (from Teacher).
+L gets +1 Buy.
+L flips Journey token face down.
+L plays an Imp again.
+L draws 2 cards.
+L plays a Will-o'-Wisp.
+L draws a card.
+L gets +1 Action.
+L reveals a Ranger.
+L topdecks a Ranger.
+L plays an Imp.
+L draws 2 cards.
+L plays a Fugitive.
+L draws 2 cards.
+L gets +1 Action.
+L discards a Silver.
+L plays a Will-o'-Wisp.
+L draws a card.
+L gets +1 Action.
+L reveals an Idol.
+L topdecks an Idol.
+L plays a Ratcatcher.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Ranger.
+L gets +1 Action (from Teacher).
+L gets +1 Buy.
+L flips Journey token face up.
+L draws 5 cards.
+L plays a Will-o'-Wisp.
+L draws a card.
+L gets +1 Action.
+L reveals an Idol.
+L topdecks an Idol.
+L plays a Ratcatcher.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Ratcatcher.
+L shuffles their deck.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Ratcatcher.
+L draws a card.
+L gets +1 Action.
+L puts a Ratcatcher on their Tavern mat.
+L plays a Ranger.
+L gets +1 Action (from Teacher).
+L gets +1 Buy.
+L flips Journey token face down.
+L plays 3 Silvers. (+$6)
+L plays an Idol. (+$2)
+L takes The Wind's Gift.
+L receives The Wind's Gift.
+L discards a card and an Exorcist.
+L discards The Wind's Gift.
+L plays an Idol. (+$2)
+s gains a Curse.
+L plays an Idol. (+$2)
+L takes The Flame's Gift.
+L receives The Flame's Gift.
+L trashes a Guardian.
+L gets 1 VP from Tomb.
+L discards The Flame's Gift.
+L buys and gains a Province.
+L buys and gains a Peasant.
+L buys and gains 2 Coppers.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 17 - schlafi
+s starts their turn.
+s plays an Imp.
+s draws a Ranger and a Will-o'-Wisp.
+s plays a Will-o'-Wisp.
+s shuffles their deck.
+s draws a Ranger.
+s gets +1 Action.
+s reveals a Ranger.
+s topdecks a Ranger.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face up.
+s draws a Curse, a Necropolis, a Ranger, a Soldier and a Will-o'-Wisp.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face down.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face up.
+s draws a Copper, a Silver, a Gold, a Province and a Counterfeit.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face down.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face up.
+s draws a Silver, a Gold, a Province, a Counterfeit and a Ranger.
+s plays a Will-o'-Wisp.
+s draws a Guardian.
+s gets +1 Action.
+s reveals a Ranger.
+s topdecks a Ranger.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face down.
+s plays a Necropolis.
+s gets +2 Actions.
+s plays a Soldier.
+s gets +$2.
+L discards a Fugitive.
+s plays a Counterfeit. (+$1)
+s gets +1 Buy.
+s plays a Copper. (+$1)
+s plays a Copper again. (+$1)
+s trashes a Copper.
+s gets 1 VP from Tomb.
+s plays a Counterfeit. (+$1)
+s gets +1 Buy.
+s plays a Silver. (+$2)
+s plays a Silver again. (+$2)
+s trashes a Silver.
+s gets 1 VP from Tomb.
+s plays a Silver and 4 Golds. (+$14)
+s buys and gains 3 Provinces.
+s plays a Guardian.
+s shuffles their deck.
+s draws a Gold, a Counterfeit, a Ranger, a Soldier and an Exorcist.
+
+Turn 17 - LightningCloud
+L starts their turn.
+L plays a Will-o'-Wisp.
+L draws a card.
+L gets +1 Action.
+L reveals an Imp.
+L puts an Imp into their hand.
+L plays an Imp.
+L draws 2 cards.
+L plays a Ranger.
+L gets +1 Action (from Teacher).
+L gets +1 Buy.
+L flips Journey token face up.
+L draws 5 cards.
+L plays an Imp.
+L draws 2 cards.
+L plays a Disciple.
+L plays a Ranger.
+L gets +1 Action (from Teacher).
+L gets +1 Buy.
+L flips Journey token face down.
+L plays a Ranger again.
+L gets +1 Action (from Teacher).
+L gets +1 Buy.
+L flips Journey token face up.
+L draws 5 cards.
+L plays a Will-o'-Wisp.
+L draws a card.
+L gets +1 Action.
+L reveals a Copper.
+L puts a Copper into their hand.
+L plays a Will-o'-Wisp.
+L shuffles their deck.
+L draws a card.
+L gets +1 Action.
+L plays a Peasant.
+L gets +1 Coin (from Teacher).
+L gets +1 Buy.
+L gets +$1.
+L plays a Teacher.
+L puts a Teacher on their Tavern mat.
+L plays 3 Silvers. (+$6)
+L plays an Idol. (+$2)
+L takes The Earth's Gift.
+L receives The Earth's Gift.
+L discards a Copper.
+L gains a Silver.
+L discards The Earth's Gift.
+L plays 2 Idols. (+$4)
+L takes The Sea's Gift.
+L receives The Sea's Gift.
+L shuffles their deck.
+L draws a card.
+L discards The Sea's Gift.
+L plays a Silver and 2 Coppers. (+$4)
+L buys and gains a Province.
+L buys and gains 2 Duchies.
+L buys and gains 2 Coppers.
+L shuffles their deck.
+L draws 5 cards.
+
+Turn 18 - schlafi
+s starts their turn.
+s gets +$1. (Guardian)
+s calls a Ratcatcher.
+s trashes an Exorcist.
+s gets 1 VP from Tomb.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face up.
+s draws a Gold, a Province, a Counterfeit, a Ranger and a Will-o'-Wisp.
+s plays a Ranger.
+s gets +1 Action (from Teacher).
+s gets +1 Buy.
+s flips Journey token face down.
+s plays a Will-o'-Wisp.
+s draws a Counterfeit.
+s gets +1 Action.
+s reveals a Ranger.
+s topdecks a Ranger.
+s plays a Soldier.
+s gets +$2.
+L discards a Duchy.
+s plays a Counterfeit. (+$1)
+s gets +1 Buy.
+s plays a Counterfeit. (+$1)
+s gets +1 Buy.
+s plays a Counterfeit. (+$1)
+s gets +1 Buy.
+s plays a Gold. (+$3)
+s plays a Gold again. (+$3)
+s trashes a Gold.
+s gets 1 VP from Tomb.
+s plays a Counterfeit again. (+$1)
+s gets +1 Buy.
+s plays a Gold. (+$3)
+s plays a Gold again. (+$3)
+s trashes a Gold.
+s gets 1 VP from Tomb.
+s trashes a Counterfeit.
+s gets 1 VP from Tomb.
+s plays a Counterfeit again. (+$1)
+s gets +1 Buy.
+s trashes a Counterfeit.
+s gets 1 VP from Tomb.
+s buys and gains a Province.
+s buys and gains 2 Duchies.
+s buys and gains an Estate.
+s draws a Silver, 3 Rangers and a Will-o'-Wisp.
